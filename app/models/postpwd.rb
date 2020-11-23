@@ -1,0 +1,2 @@
+class Postpwd < ApplicationRecord
+end
